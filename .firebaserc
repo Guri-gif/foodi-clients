@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "foodi-client-deploy-3f368",
+    "staging": "foodi-client-deploy-3f368"
+  },
+  "targets": {},
+  "etags": {}
+}
